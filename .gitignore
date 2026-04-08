@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Environment variables (SECURITY!)
+.env
+backend/.env
+
+# Next.js build
+.next/
+out/
+build/
+
+# OS files
+.DS_Store
